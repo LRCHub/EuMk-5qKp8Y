@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "追懐 / nui",
+  "base_artist": "nui",
+  "createdAt": "2025-12-24T13:21:43.143565Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "追懐",
+      "artist": "nui",
+      "has_synced": false,
+      "path": "select/pl_01_追懐_nui.txt"
+    }
+  ]
+}
